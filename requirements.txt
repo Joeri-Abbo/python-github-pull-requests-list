@@ -1,6 +1,6 @@
 certifi==2024.7.4
 cffi==1.15.1
-charset-normalizer==3.4.2
+charset-normalizer==3.4.4
 Deprecated==1.2.13
 idna==3.7
 pycparser==2.22
